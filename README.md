@@ -27,7 +27,7 @@ From the NOAA Climate Data Online: Dataset Discovery page (https://www.ncdc.noaa
 
 ## Overview of the model
 
-**Model: Logistic Regression **  
+**Model: Logistic Regression**  
 
 **Accuracy: 92%    AUC: 0.97**
 
