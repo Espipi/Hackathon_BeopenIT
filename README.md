@@ -18,4 +18,20 @@ From the Bureau of Transporation Statistics’ On-Time-Performance data page (ht
 From the NOAA Climate Data Online: Dataset Discovery page (https://www.ncdc.noaa.gov/cdo-web/datasets)
 
 
+## Architecture
+![architecture](https://user-images.githubusercontent.com/58880576/94341493-44892680-fff9-11ea-9655-a57c24e4b9ff.PNG)
+
+## Features and target
+![target](https://user-images.githubusercontent.com/58880576/94341492-43f09000-fff9-11ea-928f-8226f6b2e161.PNG)
+
+
+## Overview of the model
+
+**Model accuracy: 92%    AUC: 0.97**
+
+## TeamFlex Members
+
+[@Espipi](https://github.com/Espipi)  [@PapeFall](https://github.com/PapeFall)
+
+
 
